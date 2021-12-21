@@ -1,0 +1,24 @@
+#https://devcenter.heroku.com/articles/python-support
+#heroku git:remote -a pdm-anomaly
+dash==1.9.1
+dash-core-components==1.8.1
+dash-html-components==1.0.2
+dash-renderer==1.2.4
+dash-table==4.6.1
+dash-table-experiments==0.6.0
+Flask==1.0.2
+Flask-Compress==1.4.0
+Frozen-Flask==0.15
+grpcio==1.27.2
+gunicorn==20.0.4
+Jinja2==2.11.1
+jmespath==0.9.4
+pandas==0.25.3
+plotly==4.5.4
+pylint==2.4.2
+python-dateutil==2.8.0
+pytz==2019.3
+setuptools-git==1.2
+Werkzeug==1.0.0
+six==1.12.0
+simpy==3.0.11
